@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 
 export class HomeComponent {
-  nome:string = "Weverton Ferreira";
+  nome: string = "Weverton Ferreira";
 }
