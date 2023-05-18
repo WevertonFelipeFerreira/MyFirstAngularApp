@@ -1,0 +1,47 @@
+{
+    "users":
+    [
+        {
+            "id": 10,
+            "name": "Harmon",
+            "password": "123312232",
+            "email": "harmonbutler@ontality.com",
+            "gender": "male"
+        },
+        {
+            "id": 9,
+            "name": "James",
+            "password": "123312232",
+            "email": "jamesbutler@ontality.com",
+            "gender": "female"
+        },
+        {
+            "id": 4,
+            "name": "Mclean",
+            "password": "123312232",
+            "email": "mcleanbutler@ontality.com",
+            "gender": "male"
+        },
+        {
+            "id": 4,
+            "name": "Winifred",
+            "password": "123312232",
+            "email": "winifredbutler@ontality.com",
+            "gender": "female"
+        },
+        {
+            "id": 4,
+            "name": "Thornton",
+            "password": "123312232",
+            "email": "thorntonbutler@ontality.com",
+            "gender": "male"
+        },
+        {
+            "id": 10,
+            "name": "Cameron",
+            "password": "123312232",
+            "email": "cameronbutler@ontality.com",
+            "gender": "male"
+        }
+    ]
+}
