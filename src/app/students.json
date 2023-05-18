@@ -1,0 +1,38 @@
+[
+    {
+        "id": 10,
+        "name": "Harmon",
+        "email": "harmonbutler@ontality.com",
+        "gender": "male"
+    },
+    {
+        "id": 9,
+        "name": "James",
+        "email": "jamesbutler@ontality.com",
+        "gender": "female"
+    },
+    {
+        "id": 4,
+        "name": "Mclean",
+        "email": "mcleanbutler@ontality.com",
+        "gender": "male"
+    },
+    {
+        "id": 4,
+        "name": "Winifred",
+        "email": "winifredbutler@ontality.com",
+        "gender": "female"
+    },
+    {
+        "id": 4,
+        "name": "Thornton",
+        "email": "thorntonbutler@ontality.com",
+        "gender": "male"
+    },
+    {
+        "id": 10,
+        "name": "Cameron",
+        "email": "cameronbutler@ontality.com",
+        "gender": "male"
+    }
+]
