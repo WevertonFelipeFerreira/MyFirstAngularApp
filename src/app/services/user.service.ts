@@ -26,12 +26,12 @@ export class UserService {
   }
 
   editUser(user: User): Observable<User> {
-    let url:string = this.BASE_URL + "users/" + user.id;
+    let url: string = this.BASE_URL + "users/" + user.id;
     return this.http.put<User>(url, user, httpOptions);
   }
 
   deleteUser(user: User): Observable<User> {
-    let url:string = this.BASE_URL + "users/" + user.id;
-    return this.http.delete<User>(url);
+    let url: string = this.BASE_URL + "users/" + user.id;
+    return this.http.delete<User>(url, httpOptions);
   }
 }
